@@ -2,17 +2,25 @@
 
 **List of books, newsletters, people and more!**
 
-Investing in yourself is a great investment anytime! I am sharing with you my personally curated resources to level up and grow to become a great engineering leader in 2025! 
+Investing in yourself is a great investment anytime! I am sharing with you my personally curated resources to level up and grow to become a great engineering leader in 2025!
 
-Topics span from software engineering, system design, data engineering, leadership, management and all the way to product and business.
+I’ve been continuously curating them for over 5 years now.
+
+Topics span from software engineering, system design, data engineering, leadership, management, and all the way to AI and product and business.
 
 ## How to start?
 
-There are a LOT of resources here and your time is very important. I don’t suggest to go and try to study all of the resources at once, I suggest to pick a few resources at a time from specific categories that you need the most. That’s what I do as well.
+There are a LOT of resources here, and your time is very important. I don’t suggest trying to learn all of the resources at once; I suggest picking a few resources at a time from specific categories that you need the most. That’s what I do as well.
 
-When I need to go more in details in a specific category, I choose the resources and do a deep dive on the specific topics. I also connect with certain individuals, check their posts and / or ask them questions.
+When I need to go into more detail in a specific category, I choose the resources and do a deep dive into the specific topics. I also connect with certain individuals, check their posts, and/or ask them questions.
 
-Important: Before you choose which resources you wish to go more in detail, I suggest to do a retrospective of your current skillset and define where you need to improve. This will ensure you are spending your time on the most impactful things first!
+Important: Before you choose which resources you wish to go into more detail, I suggest doing a retrospective of your current skill set and defining where you need to improve.
+
+To help you with finding out what skills you need, this is a great article: [Become a Great Engineering Leader in 2025](https://newsletter.eng-leadership.com/p/become-a-great-engineering-leader).
+
+And for a full roadmap to break into Engineering Leadership, check this article: [Full Roadmap to Break Into Engineering Leadership in 2025](https://newsletter.eng-leadership.com/p/full-roadmap-to-break-into-engineering)
+
+This will ensure you are spending your time on the most impactful things first!
 
 ## Get better in System Design
 
@@ -27,6 +35,7 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - Building Microservices: Designing Fine-Grained Systems by Sam Newman
 - Fundamentals of Software Architecture by Neal Ford and Mark Richards
 - Software Architecture: The Hard Parts by Neal Ford, Mark Richards, Pramod Sadalage and Zhamak Dehghani
+- Site Reliability Engineering: How Google Runs Production Systems by Niall Richard Murphy, Betsy Beyer, Chris Jones and Jennifer Petoff
 - Learn System Design in a Hurry, (Helping FAANG+ Software Engineering candidates land their dream job) by Evan King  
 
 **List of blogs**
@@ -62,28 +71,37 @@ Important: Before you choose which resources you wish to go more in detail, I su
 **List of newsletters**
 
 - [System Design Newsletter](https://newsletter.systemdesign.one/) by Neo Kim
-- [Byte-Sized Design](https://bytesizeddesign.substack.com/) by Alex Nguyen
 - [ByteByteGo](https://blog.bytebytego.com/) by Alex Xu
+- [AlgoMaster Newsletter](https://blog.algomaster.io/) by Ashish Pratap Singh
+- [Byte-Sized Design](https://bytesizeddesign.substack.com/) by Byte-Sized Design
 - [System Design Codex](https://newsletter.systemdesigncodex.com/) by Saurabh Dashora
-- [Hacking Scale](https://newsletter.betterstack.com/) by Richard Oliver Bray
+- [System Design Classroom](https://newsletter.systemdesignclassroom.com/) by Raul Junco
+- [Big Tech Careers](https://newsletter.bigtechcareers.com/) by Prasad Rao
+- [Simple AWS](https://newsletter.simpleaws.dev/) by Guille Ojeda
+- [Level Up Coding System Design Newsletter](https://open.substack.com/pub/lucsystemdesign) by Level Up Coding
+- [Hacking Scale by Better Stack](https://newsletter.betterstack.com/) by Richard Oliver Bray
 
 **People to follow on LinkedIn**
 
 - [Neo Kim](https://www.linkedin.com/in/nk-systemdesign-one/)
-- [Alex Nguyen](https://www.linkedin.com/in/alexcancode/)
 - [Alex Xu](https://www.linkedin.com/in/alexxubyte/)
 - [Raul Junco](https://www.linkedin.com/in/raul-junco/)
 - [Saurabh Dashora](https://www.linkedin.com/in/saurabh-dashora/)
+- [Shalini Goyal](https://www.linkedin.com/in/goyalshalini/)
+- [Nikki Siapno](https://www.linkedin.com/in/nikkisiapno/)
+- [Mayank Ahuja](https://www.linkedin.com/in/curiouslearner/)
+- [Prasad Rao](https://www.linkedin.com/in/kprasadrao/)
+- [Guille Ojeda](https://www.linkedin.com/in/kprasadrao/)
 - [Evan King](https://www.linkedin.com/in/evan-king-40072280/)
 
 ## Become a better Leader / Manager
 
 **List of books**
 
-- The Making of a Manager by Julie Zhuo
+- The Making of a Manager by Julie Zhuo
 - The First 90 Days by Michael D. Watkins
 - The Lean Manager by Andrew and Muhammad Wilkerson
-- The Five Dysfunctions of a Team by Patrick Lencioni
+- The Five Dysfunctions of a Team by Patrick Lencioni (my personal favorite)
 - The Manager's Path by Camille Fournieri
 - Leadership in 60 seconds by Omar Halabieh
 - Act Like a Leader, Think Like a Leader by Herminia Ibarra
@@ -91,27 +109,37 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - Crucial Conversations by Kerry Patterson
 - How to Lead When You're Not in Charge by Clay Scroggins
 - Think Again by Adam Grant
-- The Mind of the Leader by Rasmus Hougaard and Jacqueline Carter
+- The Mind of the Leader by Rasmus Hougaard and Jacqueline Carter
 - The Culture Map by Erin Meyer
+- Engineering Management for the rest of us by Sarah Drasner
+- Data Leadership for Everyone by Anthony J. Algmin
+- Multipliers by Liz Wiseman
+- Impact Players by Liz Wiseman
+- Leading Snowflakes by Oren Ellenbogen
+- Leading Effective Engineering Teams by Addy Osmani
+- Become an Effective Software Engineering Manager by James Stanier
 
 **List of newsletters**
 
 - [Engineering Leadership](https://newsletter.eng-leadership.com/) by Gregor Ojstersek
-- [The Caring Techie Newsletter](https://www.thecaringtechie.com/) by Irina Stanescu
 - [Elevate](https://addyo.substack.com/) by Addy Osmani
-- [Leading Developers](https://zaidesanton.substack.com/) by Anton Zaides
+- [Scarlet Ink](https://www.scarletink.com/) by Dave Anderson
 - [The Hybrid Hacker](https://hybridhacker.email/) by Nicola Ballotta
+- [Manager.dev](https://newsletter.manager.dev/) by Anton Zaides
+- [The Caring Techie Newsletter](https://www.thecaringtechie.com/) by Irina Stanescu
 - [Tech World With Milan Newsletter](https://newsletter.techworld-with-milan.com/) by Dr Milan Milanovic
-- [The Engineering Manager](https://theengineeringmanager.substack.com/?utm_source=recommendations_page&utm_campaign=1115815) by James Stanier
+- [The Conscious Leader](https://tahahussain.substack.com/) by Taha Hussain
+- [The Engineering Manager](https://theengineeringmanager.substack.com/) by James Stanier
 - [Techlead Mentor](https://newsletter.techleadmentor.com/) by Raviraj Achar
 - [Developing Skills](https://developingskills.substack.com/) by John Crickett
 - [Refactoring](https://refactoring.fm/) by Luca Rossi
 - [Level up as a Tech Lead](https://anemarifiser.substack.com/) by Anemari Fiser
-- [Code.Lead.Succeed](https://darsadowski.substack.com/) by Dariusz Sadowski
-- [snackableCTO](https://blog.snackablecto.coach/) by Adrian Stanek
+- [Thinking in Tech](https://www.thinkingintech.com/) by Dariusz Sadowski
+- [Adrian Builds](https://blog.adrianstanek.dev/) by Adrian Stanek
+- [Level Up Newsletter](https://levelupwithethanevans.substack.com/) by Ethan Evans
+- [The Chronicles of a High EQ Leader](https://www.theeqleader.com/) by Djordje Mladenovic
 - [Crafting Tech Teams](https://craftingtechteams.substack.com/) by Denis Čahuk
 - [The Software Engineering Times](https://thesoftwareengineeringtimes.substack.com/) by Ryan Murphy
-- [The Visionary CTO](https://blog.visionarycto.com/) by Matt Watson
 - [Alex Ewerlöf Notes](https://blog.alexewerlof.com/) by Alex Ewerlöf
 - [Sudo Make Me a CTO](https://makemeacto.substack.com/) by Sergio Visinoni
 - [Programming Leadership - Marcus Blankenship](https://marcusblankenship.substack.com/) by Marcus Blankenship
@@ -125,14 +153,25 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Irina Stanescu](https://www.linkedin.com/in/irinastanescu/)
 - [Luca Rossi](https://www.linkedin.com/in/lucaronin/)
 - [Addy Osmani](https://www.linkedin.com/in/addyosmani/)
+- [Taha Hussain](https://www.linkedin.com/in/tahahussain/)
 - [Anton Zaides](https://www.linkedin.com/in/anton-zaides/)
 - [Dr Milan Milanović](https://www.linkedin.com/in/milanmilanovic/)
+- [David Anderson](https://www.linkedin.com/in/scarletink/)
 - [Anemari Fiser](https://www.linkedin.com/in/anemari-fiser/)
 - [Raviraj Achar](https://www.linkedin.com/in/ravirajachar/)
+- [Pedro Gil Carvalho](https://www.linkedin.com/in/pedrogilcarvalho/)
 - [Dariusz Sadowski](https://www.linkedin.com/in/darsadowski/)
 - [Adrian Stanek](https://www.linkedin.com/in/adrianstanek/)
+- [Ali Merchant](https://www.linkedin.com/in/alimerchant/)
+- [Alexander Kliotzkin](https://www.linkedin.com/in/alex-kliotzkin/)
+- [Ethan Evans](https://www.linkedin.com/in/ethanevansvp/)
+- [Djordje Mladenovic](https://www.linkedin.com/in/djordjemladenovic/)
 - [Denis Čahuk](https://www.linkedin.com/in/deniscahuk/)
 - [Matt Watson](https://www.linkedin.com/in/mattwatsonkc/overlay/about-this-profile/)
+- [Sarah Gruneisen](https://www.linkedin.com/in/sgruneisen/)
+- [Pramoda Vyasarao](https://www.linkedin.com/in/pramodavyasarao/)
+- [Steven Claes](https://www.linkedin.com/in/steven-claes/)
+- [Anna J McDougall](https://www.linkedin.com/in/annajmcdougall/)
 - [Ryan Murphy](https://www.linkedin.com/in/ryansmurphy1/)
 - [Kahlil Lechelt](https://www.linkedin.com/in/kahlillechelt/)
 - [James Stanier](https://www.linkedin.com/in/jstanier/)
@@ -145,6 +184,57 @@ Important: Before you choose which resources you wish to go more in detail, I su
 - [Anco van der Wurff](https://www.linkedin.com/in/ancowurff/)
 - [Sergio Visinoni](https://www.linkedin.com/in/piffio/)
 - [Gregor Purdy](https://www.linkedin.com/in/gregorpurdy/)
+
+**Articles**
+
+- [Engineering Leader’s Guide: How to Become a Great Coach and Mentor](https://newsletter.eng-leadership.com/p/engineering-leaders-guide-how-to)
+- [This Is Holding Most Engineers Back from Lead Roles](https://newsletter.eng-leadership.com/p/this-is-holding-most-engineers-back)
+- [Stuck at Senior Engineer - How to Break Through and Reach the Next Level](https://newsletter.eng-leadership.com/p/stuck-at-senior-engineer-how-to-break)
+- [7 Must-Have Engineering Manager Stories That Will Land You the Offer](https://newsletter.eng-leadership.com/p/7-must-have-engineering-manager-stories)
+- [Engineer to Leader: 10 Insights to Get You Started](https://newsletter.eng-leadership.com/p/engineer-to-leader-10-insights-to)
+- [Become an Engineering Leader Everyone Wants to Work With](https://newsletter.eng-leadership.com/p/become-an-engineering-leader-everyone)
+- [Your Engineering Team Should Be Looking to Solve Customer Problems](https://newsletter.eng-leadership.com/p/your-engineering-team-should-be-looking)
+- [How to Ace Engineering Manager Interviews](https://newsletter.eng-leadership.com/p/how-to-ace-engineering-manager-interviews)
+- [The State of Engineering Leadership in 2025](https://newsletter.eng-leadership.com/p/the-state-of-engineering-leadership)
+- [First Time in a Leading Position? This Is What to Do](https://newsletter.eng-leadership.com/p/first-time-in-a-leading-position)
+- [15 Productivity Hacks Every Engineer & Manager Should Know](https://newsletter.eng-leadership.com/p/15-productivity-hacks-every-engineer)
+- [Not Communicating Your Impact Is Killing Your Career](https://newsletter.eng-leadership.com/p/not-communicating-your-impact-is)
+- [How I Grew From Engineer to CTO](https://newsletter.eng-leadership.com/p/how-i-grew-from-engineer-to-cto)
+- [Full Roadmap to Break Into Engineering Leadership in 2025](https://newsletter.eng-leadership.com/p/full-roadmap-to-break-into-engineering)
+- [What’s Next After Senior Engineer?](https://newsletter.eng-leadership.com/p/whats-next-after-senior-engineer)
+- [Why You Should Do a Tech Lead Rotation in Your Engineering Team](https://newsletter.eng-leadership.com/p/why-you-should-do-a-tech-lead-rotation)
+- [5 Mindset Shifts Needed to Grow From Engineer to Leader](https://newsletter.eng-leadership.com/p/5-mindset-shifts-needed-to-grow-from)
+- [Help Your Manager to Help You](https://newsletter.eng-leadership.com/p/help-your-manager-to-help-you)
+- [5 Lessons Learned Setting Up a Global Engineering Org at Google](https://newsletter.eng-leadership.com/p/5-lessons-learned-setting-up-a-global)
+- [How to Build Trust as an Engineering Leader](https://newsletter.eng-leadership.com/p/how-to-build-trust-as-an-engineering)
+- [How to Build Trust as an Engineering Leader Part 2: Structure and Execute the Plan](https://newsletter.eng-leadership.com/p/how-to-build-trust-as-an-engineering-514)
+- [Great Engineering Leaders Create Leaders](https://newsletter.eng-leadership.com/p/great-engineering-leaders-create)
+- [3 Main Soft Skills a Tech Lead Needs to Develop](https://newsletter.eng-leadership.com/p/3-main-soft-skills-a-tech-lead-needs)
+- [Senior Engineer to Lead: Who to Promote and How to Train Them](https://newsletter.eng-leadership.com/p/senior-engineer-to-lead-who-to-promote)
+- [How to Become a CTO](https://newsletter.eng-leadership.com/p/how-to-become-a-cto)
+- [12 Ways to Become a CTO](https://newsletter.eng-leadership.com/p/12-ways-to-become-a-cto)
+- [Good Managers Are Hard to Find and Once You Have Them, They Should Be Appreciated](https://newsletter.eng-leadership.com/p/good-managers-are-hard-to-find-and)
+- [What Does a CTO Do](https://newsletter.eng-leadership.com/p/what-does-a-cto-do)
+- [From IC to Manager](https://newsletter.eng-leadership.com/p/from-ic-to-manager)
+- [How to Develop a Great Tech Strategy](https://newsletter.eng-leadership.com/p/how-to-develop-a-great-tech-strategy)
+- [How to Recognize the Potential in Engineers](https://newsletter.eng-leadership.com/p/how-to-recognize-the-potential-in)
+- [How to Manage Up as an Engineer or a Manager](https://newsletter.eng-leadership.com/p/how-to-manage-up-as-an-engineer-or)
+- [Software Engineering Team Structure That Works](https://newsletter.eng-leadership.com/p/software-engineering-team-structure)
+- [Engineering Org Structure That Works](https://newsletter.eng-leadership.com/p/engineering-org-structure-that-works)
+- [How Teaching Made Me a Better Engineer and Manager](https://newsletter.eng-leadership.com/p/how-teaching-made-me-a-better-engineer)
+- [From Tech Lead to Team Lead](https://newsletter.eng-leadership.com/p/how-teaching-made-me-a-better-engineer)
+- [How I Organized My Time as a Full-Time CTO](https://newsletter.eng-leadership.com/p/how-i-organized-my-time-as-a-full)
+- [How to Create a Great Engineering Organization Where People Can Thrive](https://newsletter.eng-leadership.com/p/how-to-create-a-great-engineering)
+- [How to Use Engineering Metrics for the Success of Engineers and Teams](https://newsletter.eng-leadership.com/p/how-to-use-engineering-metrics-for)
+- [From Engineer to Principal Solutions Architect at AWS With Prasad Rao](https://newsletter.eng-leadership.com/p/from-engineer-to-principal-solutions)
+- [How to Create a Culture of Ownership in Your Engineering Team](https://newsletter.eng-leadership.com/p/how-to-create-a-culture-of-ownership)
+- [Blameless Culture Should Be a Standard in the Engineering Industry](https://newsletter.eng-leadership.com/p/blameless-culture-should-be-a-standard)
+- [How to Become a Fractional CTO?](https://newsletter.eng-leadership.com/p/how-to-become-a-fractional-cto)
+- [How to Handle Underperformance](https://newsletter.eng-leadership.com/p/how-to-handle-underperformance)
+- [How to Have a Top Performing, Healthy and Active Day as an Engineer or a Manager](https://newsletter.eng-leadership.com/p/how-to-have-a-top-performing-healthy)
+- [The Importance of Having a Career Growth Plan in the Engineering Industry](https://newsletter.eng-leadership.com/p/the-importance-of-having-a-career)
+- [8 Signs That You Have a Good Manager](https://newsletter.eng-leadership.com/p/8-signs-that-you-have-a-good-manager)
+- [Leading 1 Team vs 3 Teams vs 5+ Teams](https://newsletter.eng-leadership.com/p/leading-1-team-vs-3-teams-vs-5-teams)
 
 ## Become a better Software Engineer
 
