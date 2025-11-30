@@ -1,4 +1,4 @@
-# 100+ Resources to become a great engineering leader
+# 200+ Resources to become a great engineering leader
 
 **List of books, newsletters, people and more!**
 
