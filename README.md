@@ -2,9 +2,9 @@
 
 **List of books, newsletters, people and more!**
 
-Investing in yourself is a great investment anytime! I am sharing with you my personally curated resources to level up and grow to become a great engineering leader in 2025!
+Investing in yourself is a great investment anytime! I am sharing with you my personally curated resources to level up and grow to become a great engineering leader in 2026 and beyond!
 
-I’ve been continuously curating them for over 5 years now.
+I’ve been continuously curating them for over 6 years now.
 
 Topics span from software engineering, system design, data engineering, leadership, management, and all the way to AI and product and business.
 
@@ -16,9 +16,9 @@ When I need to go into more detail in a specific category, I choose the resource
 
 Important: Before you choose which resources you wish to go into more detail, I suggest doing a retrospective of your current skill set and defining where you need to improve.
 
-To help you with finding out what skills you need, this is a great article: [Become a Great Engineering Leader in 2025](https://newsletter.eng-leadership.com/p/become-a-great-engineering-leader).
+To help you with finding out what skills you need, this is a great article: [Become a Great Engineering Leader in 2026](https://newsletter.eng-leadership.com/p/become-a-great-engineering-leader-1ff).
 
-And for a full roadmap to break into Engineering Leadership, check this article: [Full Roadmap to Break Into Engineering Leadership in 2025](https://newsletter.eng-leadership.com/p/full-roadmap-to-break-into-engineering)
+And for a full roadmap to break into Engineering Leadership, check this article: [Full Roadmap to Break Into Engineering Leadership](https://newsletter.eng-leadership.com/p/full-roadmap-to-break-into-engineering)
 
 This will ensure you are spending your time on the most impactful things first!
 
